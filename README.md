@@ -5,6 +5,7 @@
 full-stack developer || Mern-stack developer
 
 - <img src="[https://tse2.mm.bing.net/th?id=OIP.qCW__3jFWBUxPjEbCFMIDgHaHa&pid=Api&P=0&w=187&h=187](https://cdn-icons-png.flaticon.com/128/888/888859.png)" img/>
+- [<img src="[https://tse2.mm.bing.net/th?id=OIP.qCW__3jFWBUxPjEbCFMIDgHaHa&pid=Api&P=0&w=187&h=187](https://cdn-icons-png.flaticon.com/128/888/888859.png)"
 - <img src="[https://tse2.mm.bing.net/th?id=OIP.qCW__3jFWBUxPjEbCFMIDgHaHa&pid=Api&P=0&w=187&h=187](https://cdn-icons-png.flaticon.com/128/888/888847.png)" img/>
 -  <img src="[[https://tse2.mm.bing.net/th?id=OIP.qCW__3jFWBUxPjEbCFMIDgHaHa&pid=Api&P=0&w=187&h=187](https://cdn-icons-png.flaticon.com/128/888/888847.png)](https://cdn-icons-png.flaticon.com/128/541/541509.png)" img/>
 -   <img src="[https://tse2.mm.bing.net/th?id=OIP.qCW__3jFWBUxPjEbCFMIDgHaHa&pid=Api&P=0&w=187&h=187](https://cdn-icons-png.flaticon.com/128/888/888847.png)" img/>
