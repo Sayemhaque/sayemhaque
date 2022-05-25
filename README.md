@@ -4,8 +4,14 @@
 
 full-stack developer || Mern-stack developer
 
-Skills: HTML5 || CSS3 || JAVASCRIPT || NODE JS || EXPRESS || MONGODB || GIT
-<img src="https://tse2.mm.bing.net/th?id=OIP.qCW__3jFWBUxPjEbCFMIDgHaHa&pid=Api&P=0&w=187&h=187" img/>
+- <img src="[https://tse2.mm.bing.net/th?id=OIP.qCW__3jFWBUxPjEbCFMIDgHaHa&pid=Api&P=0&w=187&h=187](https://cdn-icons-png.flaticon.com/128/888/888859.png)" img/>
+- <img src="[https://tse2.mm.bing.net/th?id=OIP.qCW__3jFWBUxPjEbCFMIDgHaHa&pid=Api&P=0&w=187&h=187](https://cdn-icons-png.flaticon.com/128/888/888847.png)" img/>
+-  <img src="[[https://tse2.mm.bing.net/th?id=OIP.qCW__3jFWBUxPjEbCFMIDgHaHa&pid=Api&P=0&w=187&h=187](https://cdn-icons-png.flaticon.com/128/888/888847.png)](https://cdn-icons-png.flaticon.com/128/541/541509.png)" img/>
+-   <img src="[https://tse2.mm.bing.net/th?id=OIP.qCW__3jFWBUxPjEbCFMIDgHaHa&pid=Api&P=0&w=187&h=187](https://cdn-icons-png.flaticon.com/128/888/888847.png)" img/>
+-    <img src="[https://tse2.mm.bing.net/th?id=OIP.qCW__3jFWBUxPjEbCFMIDgHaHa&pid=Api&P=0&w=187&h=187](https://cdn-icons-png.flaticon.com/128/888/888847.png)" img/>
+
+
+
 - 🔭 I’m currently working on home 
 - 🌱 I’m currently learning React js 
 - 💬 Ask me about Javascript 
