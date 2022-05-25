@@ -4,7 +4,7 @@
 
 full-stack developer || Mern-stack developer
 
-Skills: HTML5/CSS3/JAVASCRIPT/NODE JS/EXPRESS/MONGODB/GIT
+Skills: https://logodix.com/logo/470287.jpg / https://img.favpng.com/21/23/2/web-development-cascading-style-sheets-html-logo-css3-png-favpng-Q90rxu2C2Rmjybz0z9M0J2fTP.jpg /JAVASCRIPT/NODE JS/EXPRESS/MONGODB/GIT
 
 - 🔭 I’m currently working on home 
 - 🌱 I’m currently learning React js 
