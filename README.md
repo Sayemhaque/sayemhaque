@@ -1,3 +1,7 @@
+<img src="![image](https://github.com/Sayemhaque/sayemhaque/assets/85791327/ee074e66-fac6-4355-bf4f-0ee0ecf3adc9)
+" alt="Logo" width="200" height="200">
+
+
 <h1 align="center">Hi 👋, I'm Sayem</h1>
 
 <h3 align="center">A passionate Front end  developer from Bangladesh</h3>
