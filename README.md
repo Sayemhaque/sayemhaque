@@ -11,6 +11,10 @@
   <em>A passionate Front-end Developer from Bangladesh 🇧🇩</em>
 </p>
 
+<div align="center">
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
+</div>
+
 <p align="center">
   <a href="https://md-sayem-mia.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio"/>
@@ -38,7 +42,7 @@
 - 💬 Ask me about **JavaScript** and front-end development
 - 📫 Reach me at: **mdsayemofficial1000@gmail.com**
 - 🌱 I'm currently learning advanced React patterns and Next.js
-- 🎯 2023 Goals: Contribute to Open Source projects and improve my skills
+- 🎯 2025 Goals: Master full-stack development and contribute to major open-source projects
 
 <hr>
 
