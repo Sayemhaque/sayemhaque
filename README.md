@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Funny Coder GIF" width="100%" style="border-radius: 10px;">
+  <img src="https://images.unsplash.com/photo-1461749280684-dccba630e2f6?auto=format&fit=crop&w=1200&h=400&q=80" alt="Coding Banner" width="100%" style="border-radius: 10px;">
 </div>
 
 <h1 align="center">
