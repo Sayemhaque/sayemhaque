@@ -28,15 +28,11 @@
 
 <hr>
 
-<div align="center">
-  <img src="https://github.com/Sayemhaque/sayemhaque/assets/85791327/ee074e66-fac6-4355-bf4f-0ee0ecf3adc9" alt="Logo" width="200" height="200" style="border-radius: 50%; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-</div>
+
 
 <h2 align="center">🚀 About Me</h2>
 
-<p align="center">
-  <img src="https://mohammad-sayem.netlify.app/static/media/profile-pic%20(9).96472099026f8eaa02af.png" alt="Profile Banner" style="max-width: 100%; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-</p>
+
 
 - 👨‍💻 Check out my projects on my [Portfolio](https://md-sayem-mia.netlify.app/)
 - 💬 Ask me about **JavaScript** and front-end development
