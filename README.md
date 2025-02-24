@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/Sayemhaque/sayemhaque/assets/85791327/ee074e66-fac6-4355-bf4f-0ee0ecf3adc9" alt="Logo" width="200" height="200" style="border-radius: 50%; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Funny Coder GIF" width="100%" style="border-radius: 10px;">
 </div>
 
 <h1 align="center">
@@ -10,10 +10,6 @@
 <p align="center">
   <em>A passionate Front-end Developer from Bangladesh 🇧🇩</em>
 </p>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
-</div>
 
 <p align="center">
   <a href="https://md-sayem-mia.netlify.app/" target="_blank">
@@ -31,6 +27,10 @@
 </p>
 
 <hr>
+
+<div align="center">
+  <img src="https://github.com/Sayemhaque/sayemhaque/assets/85791327/ee074e66-fac6-4355-bf4f-0ee0ecf3adc9" alt="Logo" width="200" height="200" style="border-radius: 50%; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+</div>
 
 <h2 align="center">🚀 About Me</h2>
 
